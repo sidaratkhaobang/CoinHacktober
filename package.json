@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sidaratkhaobang/CoinHacktober_Frontend#readme",
   "dependencies": {
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "vue-sorted-table": "^1.3.0"
   }
 }
